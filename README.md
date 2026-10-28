@@ -29,7 +29,7 @@ Use the links below; you do not need to interact with the diagram.
 | [Your computer + VS Code: C#](docs/setup/local-csharp.md) | C# | Official learn path C# exercises; local .NET toolchain. |
 | [Your computer + VS Code: Python](docs/setup/local-python.md) | Python | Official learn path Python variants; local Python toolchain. |
 | [Your computer + VS Code: Java](docs/setup/local-java-vscode.md) | Java | Experimental adaptation; local Java/Maven toolchain. |
-| [Your computer + IntelliJ IDEA: Java](docs/setup/local-java-intellij.md) | Java | Locally adapted instructions grounded in official documentation; **not battle tested**. |
+| [Your computer + IntelliJ IDEA: Java](docs/setup/local-java-intellij.md) | Java | Adapted instructions grounded in official documentation; **not battle tested**. |
 | [GitHub Codespaces: Java](docs/setup/codespaces-java.md) | Java only | Upstream Java development container hosted by GitHub; experimental labs. Usage limits/billing apply. |
 | [Local Dev Containers: Java](docs/setup/devcontainers-java.md) | Java only | The same upstream container, using VS Code's Dev Containers extension and local Docker; experimental labs. |
 
