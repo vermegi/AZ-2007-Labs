@@ -40,4 +40,4 @@ Record your IDE, plugin, JDK, and Maven versions and any policy limitations when
 5. [05 - Refactoring](../intellij/05-refactoring.md) - starter mismatch: see the applicability checkpoint.
 6. [06 - Vibe-code a web prototype](../intellij/06-vibe-coding.md)
 
-Each adaptation links its original Java exercise. Microsoft exercises 07-16 are C#/.NET-specific and are omitted. These adaptations use documented JetBrains Chat/Agent/file-reference workflows instead of assuming VS Code shortcuts, `#codebase`, `@github`, Quick Chat, or Keep/Undo controls exist unchanged.
+Each adaptation links its original Java exercise. Official learn path exercises 07-16 are C#/.NET-specific and are omitted. These adaptations use documented JetBrains Chat/Agent/file-reference workflows instead of assuming VS Code shortcuts, `#codebase`, `@github`, Quick Chat, or Keep/Undo controls exist unchanged.

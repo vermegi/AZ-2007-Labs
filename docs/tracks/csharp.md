@@ -2,7 +2,7 @@
 
 [Choose an environment](../../README.md#choose-your-route) | [Local C# option](../setup/local-csharp.md) | [Skillable option](../setup/skillable.md)
 
-Use the [Microsoft source repository](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev), **not this guidance repository**, for sample code. These links open the original published instructions; no exercise steps are reproduced here.
+For the official learn path C# exercises, use the [Microsoft source repository](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev), **not this guidance repository**, for sample code. These links open the original published instructions; no exercise steps are reproduced here.
 
 ## Preparation
 

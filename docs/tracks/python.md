@@ -2,7 +2,7 @@
 
 [Choose an environment](../../README.md#choose-your-route) | [Local Python option](../setup/local-python.md)
 
-Use the [Microsoft source repository](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev) for sample code. Follow **only the Python variants** of 02-05; their C# counterparts are alternatives, not extra assignments.
+For the official learn path Python variants, use the [Microsoft source repository](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev) for sample code. Follow **only the Python variants** of 02-05; their C# counterparts are alternatives, not extra assignments.
 
 ## Preparation
 

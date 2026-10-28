@@ -2,7 +2,7 @@
 
 [All options](../../README.md#choose-your-route) | [C# coverage and project notes](../tracks/csharp.md)
 
-Use this route for the Microsoft C# exercises on your own machine.
+Use this route for the official learn path C# exercises on your own machine.
 
 ## Prerequisite reminder and original setup links
 
