@@ -2,7 +2,7 @@
 
 [All options](../../README.md#choose-your-route) | [Java track](../tracks/java.md)
 
-**Experimental community adaptation.** This is native local development, without Docker or Codespaces.
+**Experimental adaptation.** This is native local development, without Docker or Codespaces.
 
 ## Prerequisite reminder and original setup links
 

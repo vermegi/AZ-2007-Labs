@@ -2,7 +2,7 @@
 
 [Choose an environment](../../README.md#choose-your-route)
 
-**Experimental community adaptation.** Use the [Java source repository](https://github.com/mkennten/mslearn-github-copilot-dev-java), not the Microsoft C#/Python repository or this guidance repository, for the Maven project.
+**Experimental adaptation.** Use the [Java source repository](https://github.com/mkennten/mslearn-github-copilot-dev-java), not the Microsoft C#/Python repository or this guidance repository, for the Maven project.
 
 ## Choose the instructions for your environment
 
